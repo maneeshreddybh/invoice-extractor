@@ -1,0 +1,9 @@
+anthropic>=0.70
+pydantic>=2.7
+python-dotenv>=1.0
+pdfplumber>=0.11
+Pillow>=10.0
+streamlit>=1.40
+pandas>=2.0
+reportlab>=4.0
+pytest>=8.0

@@ -1,0 +1,904 @@
+{
+  "invoice_01.pdf": {
+    "vendor_name": "Copperline Facility Services Inc.",
+    "vendor_tax_id": "EIN 65-3766030",
+    "invoice_number": "SI/2026/318",
+    "invoice_date": "2026-07-13",
+    "due_date": "2026-08-12",
+    "currency": "USD",
+    "subtotal": "13566.95",
+    "tax_total": "1119.27",
+    "total": "14686.22",
+    "line_items": [
+      {
+        "description": "Logo redesign, fixed fee",
+        "quantity": "9",
+        "unit_price": "1250.00",
+        "line_total": "11250.00"
+      },
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "1E+1",
+        "unit_price": "24.50",
+        "line_total": "245.00"
+      },
+      {
+        "description": "Ergonomic office chair",
+        "quantity": "5",
+        "unit_price": "189.99",
+        "line_total": "949.95"
+      },
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "12",
+        "unit_price": "37.25",
+        "line_total": "447.00"
+      },
+      {
+        "description": "Monthly cloud backup plan",
+        "quantity": "15",
+        "unit_price": "45.00",
+        "line_total": "675.00"
+      }
+    ],
+    "_meta": {
+      "layout": "classic",
+      "number_style": "us",
+      "date_style": "long",
+      "tax_style": "single",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_02.pdf": {
+    "vendor_name": "Atelier Mirabelle SARL",
+    "vendor_tax_id": null,
+    "invoice_number": "2026048",
+    "invoice_date": "2026-08-23",
+    "due_date": "2026-09-06",
+    "currency": "EUR",
+    "subtotal": "237.50",
+    "tax_total": "45.13",
+    "total": "282.63",
+    "line_items": [
+      {
+        "description": "On-site IT support (hours)",
+        "quantity": "2.5",
+        "unit_price": "95.00",
+        "line_total": "237.50"
+      }
+    ],
+    "_meta": {
+      "layout": "modern",
+      "number_style": "eu",
+      "date_style": "iso",
+      "tax_style": "vat",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_03.pdf": {
+    "vendor_name": "Harrowgate Software Ltd",
+    "vendor_tax_id": "GB 219 4672 04",
+    "invoice_number": "INV-29505",
+    "invoice_date": "2026-01-15",
+    "due_date": null,
+    "currency": "GBP",
+    "subtotal": "945.00",
+    "tax_total": "189.00",
+    "total": "1134.00",
+    "line_items": [
+      {
+        "description": "Monthly cloud backup plan",
+        "quantity": "21",
+        "unit_price": "45.00",
+        "line_total": "945.00"
+      }
+    ],
+    "_meta": {
+      "layout": "compact",
+      "number_style": "us",
+      "date_style": "uk",
+      "tax_style": "vat",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_04.pdf": {
+    "vendor_name": "Saffron Peak Technologies Pvt Ltd",
+    "vendor_tax_id": "92JAXHE9908X1Z2",
+    "invoice_number": "F-2026-2574",
+    "invoice_date": "2026-05-13",
+    "due_date": "2026-06-12",
+    "currency": "INR",
+    "subtotal": "2042130.34",
+    "tax_total": "367583.46",
+    "total": "2409713.80",
+    "line_items": [
+      {
+        "description": "Ergonomic office chair",
+        "quantity": "22",
+        "unit_price": "15769.17",
+        "line_total": "346921.74"
+      },
+      {
+        "description": "Logo redesign, fixed fee",
+        "quantity": "13",
+        "unit_price": "103750.00",
+        "line_total": "1348750.00"
+      },
+      {
+        "description": "Laser toner cartridge, black",
+        "quantity": "6",
+        "unit_price": "5644.00",
+        "line_total": "33864.00"
+      },
+      {
+        "description": "Brochure printing, 500 copies",
+        "quantity": "13",
+        "unit_price": "17430.00",
+        "line_total": "226590.00"
+      },
+      {
+        "description": "Water filter replacement kit",
+        "quantity": "4",
+        "unit_price": "4556.70",
+        "line_total": "18226.80"
+      },
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "16",
+        "unit_price": "3091.75",
+        "line_total": "49468.00"
+      },
+      {
+        "description": "Freight insurance",
+        "quantity": "4",
+        "unit_price": "1527.20",
+        "line_total": "6108.80"
+      },
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "6",
+        "unit_price": "2033.50",
+        "line_total": "12201.00"
+      }
+    ],
+    "_meta": {
+      "layout": "european",
+      "number_style": "in",
+      "date_style": "uk",
+      "tax_style": "dual",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_05.pdf": {
+    "vendor_name": "Hinode Trading K.K.",
+    "vendor_tax_id": "T8246237712484",
+    "invoice_number": "INV-62412",
+    "invoice_date": "2026-05-21",
+    "due_date": "2026-06-04",
+    "currency": "JPY",
+    "subtotal": "675210",
+    "tax_total": "67521",
+    "total": "742731",
+    "line_items": [
+      {
+        "description": "Brochure printing, 500 copies",
+        "quantity": "16",
+        "unit_price": "31500",
+        "line_total": "504000"
+      },
+      {
+        "description": "On-site IT support (hours)",
+        "quantity": "4",
+        "unit_price": "14250",
+        "line_total": "57000"
+      },
+      {
+        "description": "Label printer ribbon",
+        "quantity": "13",
+        "unit_price": "1920",
+        "line_total": "24960"
+      },
+      {
+        "description": "Pallet delivery, regional",
+        "quantity": "7",
+        "unit_price": "12750",
+        "line_total": "89250"
+      }
+    ],
+    "_meta": {
+      "layout": "classic",
+      "number_style": "us",
+      "date_style": "iso",
+      "tax_style": "single",
+      "scan": "skew",
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_06.pdf": {
+    "vendor_name": "Maple Ridge Logistics Inc.",
+    "vendor_tax_id": "936949319 RT0001",
+    "invoice_number": "H98477",
+    "invoice_date": "2026-08-24",
+    "due_date": "2026-09-07",
+    "currency": "CAD",
+    "subtotal": "1388.30",
+    "tax_total": "207.90",
+    "total": "1596.20",
+    "line_items": [
+      {
+        "description": "On-site IT support (hours)",
+        "quantity": "1.5",
+        "unit_price": "95.00",
+        "line_total": "142.50"
+      },
+      {
+        "description": "Water filter replacement kit",
+        "quantity": "18",
+        "unit_price": "54.90",
+        "line_total": "988.20"
+      },
+      {
+        "description": "Freight insurance",
+        "quantity": "14",
+        "unit_price": "18.40",
+        "line_total": "257.60"
+      }
+    ],
+    "_meta": {
+      "layout": "modern",
+      "number_style": "us",
+      "date_style": "iso",
+      "tax_style": "dual",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_07.pdf": {
+    "vendor_name": "Bluegum Water Systems Pty Ltd",
+    "vendor_tax_id": "ABN 62 192 992 520",
+    "invoice_number": "SI/2026/532",
+    "invoice_date": "2026-02-16",
+    "due_date": "2026-03-18",
+    "currency": "AUD",
+    "subtotal": "9590.50",
+    "tax_total": "959.05",
+    "total": "10549.55",
+    "line_items": [
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "7",
+        "unit_price": "24.50",
+        "line_total": "171.50"
+      },
+      {
+        "description": "Laser toner cartridge, black",
+        "quantity": "23",
+        "unit_price": "68.00",
+        "line_total": "1564.00"
+      },
+      {
+        "description": "Monthly cloud backup plan",
+        "quantity": "19",
+        "unit_price": "45.00",
+        "line_total": "855.00"
+      },
+      {
+        "description": "Website maintenance retainer",
+        "quantity": "2E+1",
+        "unit_price": "350.00",
+        "line_total": "7000.00"
+      }
+    ],
+    "_meta": {
+      "layout": "compact",
+      "number_style": "us",
+      "date_style": "long_eu",
+      "tax_style": "single",
+      "scan": null,
+      "prompt_injection": true,
+      "printed_math_error": false
+    }
+  },
+  "invoice_08.pdf": {
+    "vendor_name": "Bramblewood Analytics Inc.",
+    "vendor_tax_id": "EIN 00-2440234",
+    "invoice_number": "SI/2026/620",
+    "invoice_date": "2026-04-21",
+    "due_date": "2026-05-05",
+    "currency": "USD",
+    "subtotal": "4627.50",
+    "tax_total": "0",
+    "total": "4627.50",
+    "line_items": [
+      {
+        "description": "Brochure printing, 500 copies",
+        "quantity": "19",
+        "unit_price": "210.00",
+        "line_total": "3990.00"
+      },
+      {
+        "description": "Monthly cloud backup plan",
+        "quantity": "11",
+        "unit_price": "45.00",
+        "line_total": "495.00"
+      },
+      {
+        "description": "On-site IT support (hours)",
+        "quantity": "1.5",
+        "unit_price": "95.00",
+        "line_total": "142.50"
+      }
+    ],
+    "_meta": {
+      "layout": "european",
+      "number_style": "us",
+      "date_style": "iso",
+      "tax_style": "none",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_09.pdf": {
+    "vendor_name": "Atelier Mirabelle SARL",
+    "vendor_tax_id": "FR83956983435",
+    "invoice_number": "F-2026-8771",
+    "invoice_date": "2026-01-14",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": "4404.70",
+    "tax_total": "880.94",
+    "total": "5285.64",
+    "line_items": [
+      {
+        "description": "Freight insurance",
+        "quantity": "14",
+        "unit_price": "18.40",
+        "line_total": "257.60"
+      },
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "7",
+        "unit_price": "24.50",
+        "line_total": "171.50"
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": "1.5",
+        "unit_price": "120.00",
+        "line_total": "180.00"
+      },
+      {
+        "description": "USB-C docking station",
+        "quantity": "24",
+        "unit_price": "149.00",
+        "line_total": "3576.00"
+      },
+      {
+        "description": "Water filter replacement kit",
+        "quantity": "4",
+        "unit_price": "54.90",
+        "line_total": "219.60"
+      }
+    ],
+    "_meta": {
+      "layout": "classic",
+      "number_style": "eu",
+      "date_style": "dot",
+      "tax_style": "vat",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_10.pdf": {
+    "vendor_name": "Kestrel Print Works Ltd",
+    "vendor_tax_id": "GB 724 5970 86",
+    "invoice_number": "B67716",
+    "invoice_date": "2026-08-26",
+    "due_date": "2026-09-25",
+    "currency": "GBP",
+    "subtotal": "1364.80",
+    "tax_total": "272.96",
+    "total": "1637.76",
+    "line_items": [
+      {
+        "description": "Freight insurance",
+        "quantity": "15",
+        "unit_price": "18.40",
+        "line_total": "276.00"
+      },
+      {
+        "description": "Label printer ribbon",
+        "quantity": "16",
+        "unit_price": "12.80",
+        "line_total": "204.80"
+      },
+      {
+        "description": "Laser toner cartridge, black",
+        "quantity": "13",
+        "unit_price": "68.00",
+        "line_total": "884.00"
+      }
+    ],
+    "_meta": {
+      "layout": "modern",
+      "number_style": "us",
+      "date_style": "long_eu",
+      "tax_style": "vat",
+      "scan": "lowq",
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_11.pdf": {
+    "vendor_name": "Saffron Peak Technologies Pvt Ltd",
+    "vendor_tax_id": "40CTADG5660K1Z5",
+    "invoice_number": "F-2026-6797",
+    "invoice_date": "2026-03-24",
+    "due_date": "2026-05-08",
+    "currency": "INR",
+    "subtotal": "1144341.75",
+    "tax_total": "205981.52",
+    "total": "1350323.27",
+    "line_items": [
+      {
+        "description": "Logo redesign, fixed fee",
+        "quantity": "11",
+        "unit_price": "103750.00",
+        "line_total": "1141250.00"
+      },
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "1",
+        "unit_price": "3091.75",
+        "line_total": "3091.75"
+      }
+    ],
+    "_meta": {
+      "layout": "compact",
+      "number_style": "in",
+      "date_style": "abbr",
+      "tax_style": "dual",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_12.pdf": {
+    "vendor_name": "Hinode Trading K.K.",
+    "vendor_tax_id": null,
+    "invoice_number": "F-2026-2464",
+    "invoice_date": "2026-03-21",
+    "due_date": null,
+    "currency": "JPY",
+    "subtotal": "5094240",
+    "tax_total": "509424",
+    "total": "5603664",
+    "line_items": [
+      {
+        "description": "Brochure printing, 500 copies",
+        "quantity": "15",
+        "unit_price": "31500",
+        "line_total": "472500"
+      },
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "2",
+        "unit_price": "5580",
+        "line_total": "11160"
+      },
+      {
+        "description": "Website maintenance retainer",
+        "quantity": "12",
+        "unit_price": "52500",
+        "line_total": "630000"
+      },
+      {
+        "description": "Logo redesign, fixed fee",
+        "quantity": "21",
+        "unit_price": "187500",
+        "line_total": "3937500"
+      },
+      {
+        "description": "Label printer ribbon",
+        "quantity": "21",
+        "unit_price": "1920",
+        "line_total": "40320"
+      },
+      {
+        "description": "Freight insurance",
+        "quantity": "1",
+        "unit_price": "2760",
+        "line_total": "2760"
+      }
+    ],
+    "_meta": {
+      "layout": "european",
+      "number_style": "us",
+      "date_style": "jp",
+      "tax_style": "single",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_13.pdf": {
+    "vendor_name": "Tamarack Field Labs Ltd.",
+    "vendor_tax_id": "650997364 RT0001",
+    "invoice_number": "F-2026-1148",
+    "invoice_date": "2026-07-23",
+    "due_date": "2026-09-06",
+    "currency": "CAD",
+    "subtotal": "3357.35",
+    "tax_total": "436.46",
+    "total": "3793.81",
+    "line_items": [
+      {
+        "description": "Water filter replacement kit",
+        "quantity": "24",
+        "unit_price": "54.90",
+        "line_total": "1317.60"
+      },
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "1",
+        "unit_price": "37.25",
+        "line_total": "37.25"
+      },
+      {
+        "description": "USB-C docking station",
+        "quantity": "11",
+        "unit_price": "149.00",
+        "line_total": "1639.00"
+      },
+      {
+        "description": "Monthly cloud backup plan",
+        "quantity": "1",
+        "unit_price": "45.00",
+        "line_total": "45.00"
+      },
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "13",
+        "unit_price": "24.50",
+        "line_total": "318.50"
+      }
+    ],
+    "_meta": {
+      "layout": "classic",
+      "number_style": "us",
+      "date_style": "long",
+      "tax_style": "single",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_14.pdf": {
+    "vendor_name": "Bluegum Water Systems Pty Ltd",
+    "vendor_tax_id": "ABN 22 567 279 709",
+    "invoice_number": "F-2026-9628",
+    "invoice_date": "2026-05-13",
+    "due_date": "2026-06-12",
+    "currency": "AUD",
+    "subtotal": "12210.68",
+    "tax_total": "1221.07",
+    "total": "13431.75",
+    "line_items": [
+      {
+        "description": "Pallet delivery, regional",
+        "quantity": "2E+1",
+        "unit_price": "85.00",
+        "line_total": "1700.00"
+      },
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "2E+1",
+        "unit_price": "24.50",
+        "line_total": "490.00"
+      },
+      {
+        "description": "Label printer ribbon",
+        "quantity": "22",
+        "unit_price": "12.80",
+        "line_total": "281.60"
+      },
+      {
+        "description": "USB-C docking station",
+        "quantity": "1",
+        "unit_price": "149.00",
+        "line_total": "149.00"
+      },
+      {
+        "description": "Annual software licence, per seat",
+        "quantity": "21",
+        "unit_price": "299.00",
+        "line_total": "6279.00"
+      },
+      {
+        "description": "Website maintenance retainer",
+        "quantity": "2",
+        "unit_price": "350.00",
+        "line_total": "700.00"
+      },
+      {
+        "description": "Freight insurance",
+        "quantity": "18",
+        "unit_price": "18.40",
+        "line_total": "331.20"
+      },
+      {
+        "description": "Ergonomic office chair",
+        "quantity": "12",
+        "unit_price": "189.99",
+        "line_total": "2279.88"
+      }
+    ],
+    "_meta": {
+      "layout": "modern",
+      "number_style": "us",
+      "date_style": "uk",
+      "tax_style": "single",
+      "scan": "skew_noise",
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_15.pdf": {
+    "vendor_name": "Bramblewood Analytics Inc.",
+    "vendor_tax_id": "EIN 36-2659631",
+    "invoice_number": "F-2026-8950",
+    "invoice_date": "2026-06-17",
+    "due_date": "2026-07-17",
+    "currency": "USD",
+    "subtotal": "426.50",
+    "tax_total": "35.19",
+    "total": "461.69",
+    "line_items": [
+      {
+        "description": "Copy paper A4, 80gsm (box of 5 reams)",
+        "quantity": "17",
+        "unit_price": "24.50",
+        "line_total": "426.50"
+      }
+    ],
+    "_meta": {
+      "layout": "compact",
+      "number_style": "us",
+      "date_style": "us",
+      "tax_style": "single",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": true
+    }
+  },
+  "invoice_16.pdf": {
+    "vendor_name": "Brightwater Consulting GmbH",
+    "vendor_tax_id": "FR71787206351",
+    "invoice_number": "F-2026-0281",
+    "invoice_date": "2026-08-17",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": "7428.71",
+    "tax_total": "1560.03",
+    "total": "8988.74",
+    "line_items": [
+      {
+        "description": "Ergonomic office chair",
+        "quantity": "4",
+        "unit_price": "189.99",
+        "line_total": "759.96"
+      },
+      {
+        "description": "On-site IT support (hours)",
+        "quantity": "7.25",
+        "unit_price": "95.00",
+        "line_total": "688.75"
+      },
+      {
+        "description": "Annual software licence, per seat",
+        "quantity": "2E+1",
+        "unit_price": "299.00",
+        "line_total": "5980.00"
+      }
+    ],
+    "_meta": {
+      "layout": "european",
+      "number_style": "eu",
+      "date_style": "long_eu",
+      "tax_style": "vat",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_17.pdf": {
+    "vendor_name": "Harrowgate Software Ltd",
+    "vendor_tax_id": null,
+    "invoice_number": "F94103",
+    "invoice_date": "2026-05-24",
+    "due_date": "2026-07-08",
+    "currency": "GBP",
+    "subtotal": "17689.65",
+    "tax_total": "3537.93",
+    "total": "21227.58",
+    "line_items": [
+      {
+        "description": "On-site IT support (hours)",
+        "quantity": "1.5",
+        "unit_price": "95.00",
+        "line_total": "142.50"
+      },
+      {
+        "description": "Label printer ribbon",
+        "quantity": "12",
+        "unit_price": "12.80",
+        "line_total": "153.60"
+      },
+      {
+        "description": "Laser toner cartridge, black",
+        "quantity": "12",
+        "unit_price": "68.00",
+        "line_total": "816.00"
+      },
+      {
+        "description": "Ergonomic office chair",
+        "quantity": "2E+1",
+        "unit_price": "189.99",
+        "line_total": "3799.80"
+      },
+      {
+        "description": "Monthly cloud backup plan",
+        "quantity": "12",
+        "unit_price": "45.00",
+        "line_total": "540.00"
+      },
+      {
+        "description": "Annual software licence, per seat",
+        "quantity": "22",
+        "unit_price": "299.00",
+        "line_total": "6578.00"
+      },
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "11",
+        "unit_price": "37.25",
+        "line_total": "409.75"
+      },
+      {
+        "description": "Website maintenance retainer",
+        "quantity": "15",
+        "unit_price": "350.00",
+        "line_total": "5250.00"
+      }
+    ],
+    "_meta": {
+      "layout": "classic",
+      "number_style": "us",
+      "date_style": "abbr",
+      "tax_style": "vat",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_18.pdf": {
+    "vendor_name": "Saffron Peak Technologies Pvt Ltd",
+    "vendor_tax_id": "53HWJEP7724J1Z0",
+    "invoice_number": "2026852",
+    "invoice_date": "2026-09-13",
+    "due_date": "2026-10-28",
+    "currency": "INR",
+    "subtotal": "61893.10",
+    "tax_total": "11140.76",
+    "total": "73033.86",
+    "line_items": [
+      {
+        "description": "Water filter replacement kit",
+        "quantity": "5",
+        "unit_price": "4556.70",
+        "line_total": "22783.50"
+      },
+      {
+        "description": "Brochure printing, 500 copies",
+        "quantity": "2",
+        "unit_price": "17430.00",
+        "line_total": "34860.00"
+      },
+      {
+        "description": "Label printer ribbon",
+        "quantity": "4",
+        "unit_price": "1062.40",
+        "line_total": "4249.60"
+      }
+    ],
+    "_meta": {
+      "layout": "modern",
+      "number_style": "in",
+      "date_style": "uk",
+      "tax_style": "dual",
+      "scan": "rot90",
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_19.pdf": {
+    "vendor_name": "Sakuragawa Electronics K.K.",
+    "vendor_tax_id": "T1901844750272",
+    "invoice_number": "2026425",
+    "invoice_date": "2026-02-23",
+    "due_date": "2026-04-09",
+    "currency": "JPY",
+    "subtotal": "627900",
+    "tax_total": "62790",
+    "total": "690690",
+    "line_items": [
+      {
+        "description": "Annual software licence, per seat",
+        "quantity": "14",
+        "unit_price": "44850",
+        "line_total": "627900"
+      }
+    ],
+    "_meta": {
+      "layout": "compact",
+      "number_style": "us",
+      "date_style": "iso",
+      "tax_style": "single",
+      "scan": null,
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  },
+  "invoice_20.pdf": {
+    "vendor_name": "Maple Ridge Logistics Inc.",
+    "vendor_tax_id": "273049595 RT0001",
+    "invoice_number": "F-2026-0646",
+    "invoice_date": "2026-01-24",
+    "due_date": "2026-02-23",
+    "currency": "CAD",
+    "subtotal": "5129.75",
+    "tax_total": "768.18",
+    "total": "5897.93",
+    "line_items": [
+      {
+        "description": "Corrugated shipping boxes (pack of 50)",
+        "quantity": "11",
+        "unit_price": "37.25",
+        "line_total": "409.75"
+      },
+      {
+        "description": "Brochure printing, 500 copies",
+        "quantity": "16",
+        "unit_price": "210.00",
+        "line_total": "3360.00"
+      },
+      {
+        "description": "Laser toner cartridge, black",
+        "quantity": "2E+1",
+        "unit_price": "68.00",
+        "line_total": "1360.00"
+      }
+    ],
+    "_meta": {
+      "layout": "european",
+      "number_style": "us",
+      "date_style": "iso",
+      "tax_style": "dual",
+      "scan": "lowq_skew",
+      "prompt_injection": false,
+      "printed_math_error": false
+    }
+  }
+}
